@@ -25,7 +25,7 @@ Contact me via the [email form on my portfolio](https://www.stryk3r.com/#contact
 <br>
 
 Check out:
-- [My Blog](https://blog.stryk3r.com)
+- [My Blog](#)
 - [My GitHub Projects](https://github.com/walter-carmo?tab=repositories)
 - [My Gists](https://gist.github.com/StrykerKent)
 - [My Repls](https://repl.it/@StrykerKent)

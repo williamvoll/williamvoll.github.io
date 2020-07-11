@@ -1,7 +1,7 @@
 [![First Bite Time](https://img.shields.io/badge/first%20byte%20time-A%20/%200.326s-brightgreen.svg?style=flat)](https://www.webpagetest.org)
 [![HitCount](http://hits.dwyl.io/strykerkent/strykerkentgithubio.svg)](http://hits.dwyl.io/strykerkent/strykerkentgithubio)
 
-# Stryker Stinnette's Portfolio Website
+# Walter Carmo's Portfolio Website
 
 This is a repo for my personal portfolio website ([Stryk3r.com](https://www.stryk3r.com)). 
 

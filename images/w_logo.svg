@@ -1,0 +1,16 @@
+<svg width="135" height="235" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="237" width="137" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path d="m368.5,94.453125c0,-1 -0.306549,-1.458801 1,-2c7.391022,-3.06147 20.392181,-1.050758 35,5c8.263428,3.422821 13.458801,7.693436 14,9c1.913422,4.6194 0.564301,9.526222 -6,16c-5.560883,5.4842 -24.885345,10.997086 -38,12c-6.979614,0.533752 -13,-1 -13,0c0,1 4,0 6,0c9,0 19.761475,3.044418 25,8c3.632263,3.436081 4,7 4,10c0,2 -3.939117,6.26152 -12,8c-10.929047,2.357071 -24,3 -40,3c-9,0 -16,0 -17,0c0,0 0,-1 0,-1l0,0" id="svg_2" stroke-width="1.5" stroke="#000" fill="none"/>
+  <text stroke="#000" transform="matrix(11.604105949401855,0,0,8.487360000610352,-74.22874164581299,-34.3950600028038) " xml:space="preserve" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="24" id="svg_8" y="235" x="7" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#7f0000"/>
+  <text style="cursor: move;" stroke="#000" transform="matrix(5.729037055319232,0,0,13.463514191524023,-283.6177924646599,-55.33430597477964) " xml:space="preserve" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="32" id="svg_9" y="20.073127" x="49.483135" stroke-opacity="null" stroke-width="0" fill="#ffffff">w</text>
+ </g>
+</svg>

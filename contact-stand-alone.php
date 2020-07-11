@@ -23,8 +23,8 @@
 			<p class="lead" style="text-align:center;">Contact me via:</p>
 			<div class="row">
 				<div class="col-md-6 li_center">
-					<a href="http://www.linkedin.com/in/strykers" target="_blank" class="btn btn-default btn-lg btn_li"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a><br /><br />
-					<a href="http://www.twitter.com/strykers" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a><br />
+					<a href="http://www.linkedin.com/in/walter-carmo-0082611a4s" target="_blank" class="btn btn-default btn-lg btn_li"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a><br /><br />
+					<a href="http://www.twitter.com/s" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a><br />
 				</div>
 				<div class="col-md-6">
 				<?php

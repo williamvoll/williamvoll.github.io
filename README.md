@@ -20,15 +20,15 @@ Things I have built:
 
 I am available for hire. 
 
-Contact me via the [email form on my portfolio](https://www.stryk3r.com/#contact) or [LinkedIn](https://www.linkedin.com/in/strykers) for more information.
+Contact me via the [email form on my portfolio](https://www.stryk3r.com/#contact) or [LinkedIn](https://www.linkedin.com/in/walter-carmo-0082611a4/) for more information.
 
 <br>
 
 Check out:
 - [My Blog](https://blog.stryk3r.com)
-- [My GitHub Projects](https://github.com/StrykerKent?tab=repositories)
+- [My GitHub Projects](https://github.com/walter-carmo?tab=repositories)
 - [My Gists](https://gist.github.com/StrykerKent)
 - [My Repls](https://repl.it/@StrykerKent)
 - [My HackerRank Profile](https://www.hackerrank.com/strykerkent)
 - [My StackOverflow Profile](https://stackoverflow.com/users/9755234/stryker)
-- [My LinkedIn Page](https://www.linkedin.com/in/strykers) 
+- [My LinkedIn Page](https://www.linkedin.com/in/walter-carmo-0082611a4/) 

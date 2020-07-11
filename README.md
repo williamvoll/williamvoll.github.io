@@ -1,55 +1,34 @@
-## Basic Setup
+[![First Bite Time](https://img.shields.io/badge/first%20byte%20time-A%20/%200.326s-brightgreen.svg?style=flat)](https://www.webpagetest.org)
+[![HitCount](http://hits.dwyl.io/strykerkent/strykerkentgithubio.svg)](http://hits.dwyl.io/strykerkent/strykerkentgithubio)
 
-1. [Install Jekyll](http://jekyllrb.com)
-2. Fork the [Particle Theme](https://github.com/nrandecker/particle/fork)
-3. Clone the repo you just forked.
-4. Edit `_config.yml` to personalize your site.
+# Stryker Stinnette's Portfolio Website
 
-## Site and User Settings
+This is a repo for my personal portfolio website ([Stryk3r.com](https://www.stryk3r.com)). 
 
-You have to fill some informations on `_config.yml` to customize your site.
+~~Originally built in PHP, reworked for GitHub Pages.~~
 
-```
-# Site settings
-description: A blog about lorem ipsum dolor sit amet
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://localhost:3000" # the base hostname & protocol for your site
+Built custom using Jekyll with no theme. (Disclaimer, I did use a CSS Framework... Bootstrap.)
 
-# User settings
-username: Lorem Ipsum
-user_description: Bryan Developer at Lorem Ipsum Dolor
-user_title: Bryan Developer
-email: me@bryanchua.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-```
+My portfolio site contains a write up of my abilities / services, things I have built, a testimonial from a former boss, and a little blurb about myself.
 
-## Color and Particle Customization
-- Color Customization
-  - Edit the sass variables
-- Particle Customization
-  - Edit the json data in particle function in app.js
-  - Refer to [Particle.js](https://github.com/VincentGarreau/particles.js/) for help
+Things I have built:
+- [Web Applications](https://www.stryk3r.com/#portfolio)
+- [Websites](https://www.stryk3r.com/#websites)
+- [Data Visualizations](https://www.stryk3r.com/##dashboards)
+- [Graphics](https://www.stryk3r.com/#webdesign)
+- [Excel Spreadsheets](https://www.stryk3r.com/##dashboards)
 
-## Running the blog in local
+I am available for hire. 
 
-In order to compile the assets and run Jekyll on local you need to follow those steps:
+Contact me via the [email form on my portfolio](https://www.stryk3r.com/#contact) or [LinkedIn](https://www.linkedin.com/in/strykers) for more information.
 
-- Install [NodeJS](https://nodejs.org/)
-- Run `npm install`
-- Run `gulp`
+<br>
 
-## Questions
-
-Having any issues file a [GitHub Issue](https://github.com/nrandecker/particle/issues/new).
-
-## License
-
-This theme is free and open source software, distributed under the The MIT License. So feel free to use this Jekyll theme anyway you want.
-
-## Credits
-
-This theme was partially designed with the inspiration from these fine folks
-- [Willian Justen](https://github.com/willianjusten/will-jekyll-template)
-- [Vincent Garreau](https://github.com/VincentGarreau/particles.js/)
+Check out:
+- [My Blog](https://blog.stryk3r.com)
+- [My GitHub Projects](https://github.com/StrykerKent?tab=repositories)
+- [My Gists](https://gist.github.com/StrykerKent)
+- [My Repls](https://repl.it/@StrykerKent)
+- [My HackerRank Profile](https://www.hackerrank.com/strykerkent)
+- [My StackOverflow Profile](https://stackoverflow.com/users/9755234/stryker)
+- [My LinkedIn Page](https://www.linkedin.com/in/strykers) 
